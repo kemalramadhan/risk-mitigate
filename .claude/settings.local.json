@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import pandas, openpyxl; print\\('pandas', pandas.__version__, 'openpyxl ok'\\)\")",
+      "Bash(php --version)",
+      "Bash(composer --version)",
+      "Bash(mysql --version)",
+      "Bash(python3 -W ignore -c ' *)",
+      "Bash(mysqladmin ping *)",
+      "Bash(mysql -u root -e \"SELECT VERSION\\(\\);\")",
+      "Bash(mkdir -p docs)",
+      "Bash(cp \"project brief.md\" \"a web-based software for group decision with analytic hierarchy process.md\" \"Knowledge Base.xlsx\" docs/)",
+      "Bash(composer create-project *)"
+    ]
+  }
+}

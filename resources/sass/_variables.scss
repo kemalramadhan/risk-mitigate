@@ -1,0 +1,40 @@
+// ===== Risk Mitigate — Enterprise GRC theme tokens =====
+
+// Typography: system stack (tanpa font eksternal, aman offline)
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Brand palette
+$navy:        #0f2942;
+$navy-700:    #14314f;
+$navy-600:    #1c4066;
+$slate:       #64748b;
+$teal:        #0ea5a4;
+$teal-600:    #0c8a89;
+
+$primary:     $navy;
+$secondary:   $slate;
+$success:     #15803d;
+$info:        #0369a1;
+$warning:     #b45309;
+$danger:      #b91c1c;
+
+$body-bg:     #f4f6f9;
+$body-color:  #1f2937;
+
+// Components
+$border-radius:      .5rem;
+$border-radius-sm:   .375rem;
+$border-radius-lg:   .75rem;
+$card-border-color:  #e5e9f0;
+$card-cap-bg:        #fbfcfe;
+$box-shadow-sm:      0 1px 2px rgba(15, 41, 66, .06);
+$box-shadow:         0 4px 16px rgba(15, 41, 66, .08);
+
+$navbar-dark-color:  rgba(255, 255, 255, .78);
+$navbar-dark-hover-color: #ffffff;
+
+$table-cell-padding-y: .6rem;
+$table-cell-padding-x: .75rem;

@@ -1,0 +1,295 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// ===== Risk Mitigate — Enterprise GRC UI =====
+
+:root {
+  --rm-navy: #{$navy};
+  --rm-teal: #{$teal};
+}
+
+body {
+  background-color: $body-bg;
+}
+
+// ---- App shell: sidebar + content ----
+.rm-shell {
+  display: flex;
+  min-height: 100vh;
+}
+
+.rm-sidebar {
+  width: 250px;
+  flex: 0 0 250px;
+  background: linear-gradient(180deg, $navy 0%, #0b2036 100%);
+  color: rgba(255, 255, 255, .85);
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.rm-brand {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  padding: 1.15rem 1.25rem;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: .3px;
+  border-bottom: 1px solid rgba(255, 255, 255, .08);
+}
+
+.rm-brand .rm-logo {
+  width: 34px;
+  height: 34px;
+  border-radius: 9px;
+  background: linear-gradient(135deg, $teal, #22d3ee);
+  display: grid;
+  place-items: center;
+  font-weight: 800;
+  color: $navy;
+}
+
+.rm-nav {
+  padding: .75rem .6rem;
+}
+
+.rm-nav .nav-section {
+  font-size: .68rem;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: rgba(255, 255, 255, .4);
+  padding: .9rem .75rem .35rem;
+}
+
+.rm-nav a {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  padding: .58rem .75rem;
+  border-radius: .5rem;
+  color: rgba(255, 255, 255, .82);
+  text-decoration: none;
+  font-weight: 500;
+  transition: background .15s ease, color .15s ease;
+}
+
+.rm-nav a:hover { background: rgba(255, 255, 255, .07); color: #fff; }
+.rm-nav a.active { background: rgba(14, 165, 164, .18); color: #fff; box-shadow: inset 3px 0 0 $teal; }
+.rm-nav a .ico { width: 18px; text-align: center; opacity: .9; }
+
+.rm-main {
+  flex: 1 1 auto;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.rm-topbar {
+  background: #fff;
+  border-bottom: 1px solid $card-border-color;
+  padding: .7rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.rm-content {
+  padding: 1.75rem;
+  max-width: 1200px;
+  width: 100%;
+}
+
+// ---- Page header ----
+.rm-page-title {
+  font-weight: 700;
+  color: $navy;
+  margin-bottom: .15rem;
+}
+.rm-page-sub { color: $slate; font-size: .9rem; }
+
+// ---- Cards ----
+.card {
+  box-shadow: $box-shadow-sm;
+}
+.card-header {
+  font-weight: 600;
+  color: $navy;
+}
+
+// ---- Stat tiles ----
+.stat-tile {
+  background: #fff;
+  border: 1px solid $card-border-color;
+  border-radius: $border-radius-lg;
+  padding: 1.1rem 1.25rem;
+  box-shadow: $box-shadow-sm;
+}
+.stat-tile .stat-value { font-size: 1.9rem; font-weight: 700; color: $navy; line-height: 1; }
+.stat-tile .stat-label { color: $slate; font-size: .82rem; text-transform: uppercase; letter-spacing: .04em; }
+
+// ---- Risk level badges ----
+.risk-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  font-weight: 600;
+  font-size: .78rem;
+  padding: .28rem .6rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+}
+.risk-badge::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
+.risk-Low      { color: #15803d; background: #dcfce7; border-color: #bbf7d0; }
+.risk-Medium   { color: #b45309; background: #fef3c7; border-color: #fde68a; }
+.risk-High     { color: #c2410c; background: #ffedd5; border-color: #fed7aa; }
+.risk-Critical { color: #b91c1c; background: #fee2e2; border-color: #fecaca; }
+
+.domain-chip {
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  padding: .18rem .5rem;
+  border-radius: .35rem;
+  background: #e8eef6;
+  color: $navy-600;
+}
+
+.mono-code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  background: #eef2f7;
+  color: $navy;
+  padding: .12rem .45rem;
+  border-radius: .3rem;
+  font-size: .82rem;
+  font-weight: 600;
+}
+
+// ---- Pairwise comparison rows ----
+.pairwise-row {
+  border: 1px solid $card-border-color;
+  border-radius: $border-radius;
+  padding: 1rem 1.1rem;
+  margin-bottom: .9rem;
+  background: #fff;
+}
+.pairwise-row .side {
+  font-weight: 600;
+  font-size: .9rem;
+}
+.pairwise-row .side.ref { color: $navy; }
+.pairwise-row .side.other { color: $slate; }
+.pairwise-slider { width: 100%; accent-color: $teal; }
+.pairwise-value {
+  font-weight: 700;
+  color: $teal-600;
+  min-width: 3.5rem;
+  text-align: center;
+  font-family: ui-monospace, monospace;
+}
+
+// ---- Priority / weight bar ----
+.weight-bar {
+  height: 10px;
+  border-radius: 999px;
+  background: #eef2f7;
+  overflow: hidden;
+}
+.weight-bar > span {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, $teal, $navy-600);
+}
+
+.rank-chip {
+  width: 26px; height: 26px;
+  border-radius: 50%;
+  display: inline-grid;
+  place-items: center;
+  font-weight: 700;
+  font-size: .8rem;
+  background: $navy;
+  color: #fff;
+}
+.rank-chip.top { background: $teal; color: $navy; }
+
+// ---- Toggle password (ikon mata) ----
+.pw-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: $slate;
+  .eye-off { display: none; }
+  &.is-shown {
+    .eye { display: none; }
+    .eye-off { display: inline; }
+  }
+}
+
+// ---- Auth (guest) ----
+.rm-auth-wrap {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: radial-gradient(1200px 600px at 20% -10%, #14314f, $navy);
+  padding: 2rem 1rem;
+}
+.rm-auth-card {
+  width: 100%;
+  max-width: 430px;
+  background: #fff;
+  border-radius: $border-radius-lg;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, .35);
+  overflow: hidden;
+}
+.rm-auth-head {
+  padding: 1.6rem 1.75rem 1rem;
+  text-align: center;
+}
+.rm-auth-head .rm-logo-lg {
+  width: 52px; height: 52px; border-radius: 14px; margin: 0 auto .75rem;
+  background: linear-gradient(135deg, $teal, #22d3ee);
+  display: grid; place-items: center; font-weight: 800; color: $navy; font-size: 1.3rem;
+}
+
+// ---- Deskripsi faktor risiko ----
+.factor-desc {
+  font-size: .78rem;
+  line-height: 1.5;
+  color: $slate;
+}
+
+.strategy-item {
+  border-left: 3px solid $teal;
+  background: #fbfdfe;
+  border-radius: .4rem;
+  padding: .75rem .9rem;
+  margin-bottom: .6rem;
+}
+.ref-quote {
+  font-size: .8rem;
+  color: $slate;
+  border-left: 2px solid #e2e8f0;
+  padding-left: .6rem;
+  margin-top: .4rem;
+}
+// Sumber referensi disembunyikan secara default; ditampilkan via switch.
+.sources-hidden .ref-quote { display: none; }
+.ref-kutipan {
+  font-style: italic;
+  color: #94a3b8;
+  margin-top: .15rem;
+}
+
+@media (max-width: 768px) {
+  .rm-sidebar { display: none; }
+  .rm-content { padding: 1rem; }
+}
