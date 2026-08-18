@@ -1,0 +1,13 @@
+.git
+.gitignore
+node_modules
+vendor
+.env
+.env.backup
+.env.production
+public/build
+public/hot
+database/*.sqlite
+database/*.sqlite-journal
+storage/logs/*.log
+reset_mysql_root.sh
