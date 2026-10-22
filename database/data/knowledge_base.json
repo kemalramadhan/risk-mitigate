@@ -93,7 +93,7 @@
           {
             "sumber": "Barbosa et al. (2022)",
             "judul_sumber": "An analysis of the effects of stakeholders management on IT project risks using Delphi and design of experiments methods",
-            "lokasi": "Results Y1 hlm. 724; Theoretical Background hlm. 125, 137; Table 1 hlm. 719",
+            "lokasi": "Results Y1 hlm. 724; Theoretical Background hlm. 717; Table 1 hlm. 717",
             "kutipan": "\"Stakeholder engagement is an important tool to reduce negative risks when used with quality.\" | \"The stakeholders' participation on project decisions and activities enables new market opportunities and enhances the enterprise capacity to deal with risks.\" | \"...the open communication with all the people involved creates an efficient culture of risk management, which is beneficial to the project development.\""
           }
         ]
@@ -134,7 +134,7 @@
           {
             "sumber": "Morcov et al. (2021)",
             "judul_sumber": "A Practical Assessment of Modern IT Project Complexity Management Tools: Taming Positive, Appropriate, Negative Complexity",
-            "lokasi": "Discussion, hlm. 101",
+            "lokasi": "Discussion hlm. 102",
             "kutipan": "\"The overhead is not acceptable for simple or small projects. Only projects 'red-flagged' as potentially complex high-risk should enter in a detailed complexity assessment or measurement; and be considered for the application of specific complexity management tools.\""
           },
           {
@@ -152,19 +152,19 @@
           {
             "sumber": "Morcov et al. (2021)",
             "judul_sumber": "A Practical Assessment of Modern IT Project Complexity Management Tools: Taming Positive, Appropriate, Negative Complexity",
-            "lokasi": "Table 8, hlm. 103",
+            "lokasi": "Table 8 hlm. 101",
             "kutipan": "\"Deploying too many tools is counter-efficient, thus tools should be prioritized depending on the project.\""
           },
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.4, hlm. 7621",
+            "lokasi": "Section 3.2 Why Tailor?, hlm. 133",
             "kutipan": "\"The structure used to deliver projects can be extensive or minimal, rigorous or lightweight, robust or simple... tailoring should reflect the size, duration, and complexity of each individual project.\""
           },
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 5, hlm. 5583",
+            "lokasi": "Section 2.5.1 Project Processes, hlm. 71",
             "kutipan": "\"In general, large projects have more process compared to small projects, and critical projects have more process than less significant projects.\""
           }
         ]
@@ -199,13 +199,13 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2621",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Risk appetite describes the degree of uncertainty an organization or individual is willing to accept in anticipation of a reward. Risk threshold is the measure of acceptable variation around an objective that reflects the risk appetite of the organization and stakeholders.\""
           },
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.4, hlm. 7561",
+            "lokasi": "Section 3.1 Overview, hlm. 131",
             "kutipan": "\"An organization with a low appetite for risk may have many processes and procedures to guide projects throughout their life cycles. A similar company operating in the same market — but with a high tolerance for risk — may have fewer processes and procedures.\""
           }
         ]
@@ -234,19 +234,19 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2611",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "\"Project teams endeavor to identify and evaluate known and emergent risks, both internal and external to the project, throughout the life cycle.\""
           },
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2623–2625",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Project teams should consistently identify potential risk responses with the following characteristics in mind: Appropriate and timely to the significance of the risk, Cost effective, Realistic within the project context, Agreed to by relevant stakeholders, and Owned by a responsible person.\""
           },
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2637",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Organizations and project teams that employ consistent risk evaluation, planning, and proactive risk implementation often find the effort to be less costly than reacting to issues when the risk materializes.\""
           }
         ]
@@ -289,7 +289,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2611",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "\"Project teams endeavor to identify and evaluate known and emergent risks, both internal and external to the project, throughout the life cycle.\""
           },
           {
@@ -324,7 +324,7 @@
           {
             "sumber": "Gräßler, Oleff & Preuß (2022)",
             "judul_sumber": "Proactive Management of Requirement Changes in the Development of Complex Technical Systems",
-            "lokasi": "Introduction, hlm. 2",
+            "lokasi": "Introduction hlm. 1",
             "kutipan": "\"Half of all system requirements are assumed to have a high likelihood of change, which is why requirement changes are given priority over additions or solutions, especially in the early phases of development.\""
           },
           {
@@ -336,7 +336,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2621",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Risk appetite describes the degree of uncertainty an organization or individual is willing to accept in anticipation of a reward. Risk threshold is the measure of acceptable variation around an objective that reflects the risk appetite of the organization and stakeholders.\""
           }
         ]
@@ -347,7 +347,7 @@
           {
             "sumber": "Gräßler et al. (2021)",
             "judul_sumber": "Handling of Explicit Uncertainty in Requirements Change Management",
-            "lokasi": "Section 5.3, hlm. 1694",
+            "lokasi": "Section 5.3 hlm. 1693",
             "kutipan": "\"To treat the risk of requirement changes, information on likelihood and impact is crucial. On the one hand, it enables to compare, classify and order risks based on their importance for risk treatment. On the other hand, it enables to select and implement risk specific action strategies. Those strategies are structured by four main categories: avoidance, reduction, transfer and acceptance.\""
           },
           {
@@ -359,7 +359,7 @@
           {
             "sumber": "Gräßler et al. (2021)",
             "judul_sumber": "Handling of Explicit Uncertainty in Requirements Change Management",
-            "lokasi": "Section 5.3, hlm. 1695",
+            "lokasi": "Section 5.3 hlm. 1694",
             "kutipan": "\"Looking at the timing, preventive, proactive and reactive actions can be differentiated. Preventive as well as proactive counter measures are initiated before a change request exists (for instance, pre-defined design freeze) whereas reactive counter measure are initiated afterwards (for instance, adjustment of development order). Reactive counter measure therefore might not be seen as part of risk management, but fire-fighting.\""
           },
           {
@@ -377,7 +377,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2623–2625",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Project teams should consistently identify potential risk responses with the following characteristics in mind: Appropriate and timely to the significance of the risk, Cost effective, Realistic within the project context, Agreed to by relevant stakeholders, and Owned by a responsible person.\""
           }
         ]
@@ -402,13 +402,13 @@
           {
             "sumber": "Kosenkov et al. (2024)",
             "judul_sumber": "Systematic mapping study on requirements engineering for regulatory compliance of software systems",
-            "lokasi": "Section 4.5.1, hlm. 19–20",
+            "lokasi": "Section 4.5.1 hlm. 25",
             "kutipan": "\"Our results also show that regulatory compliance with SIPS may require a more systematic consideration throughout the SDLC. Implementation of effective relationships between requirements engineering and other process areas is essential for the achievement of SIPS regulatory compliance.\""
           },
           {
             "sumber": "Kosenkov et al. (2024)",
             "judul_sumber": "Systematic mapping study on requirements engineering for regulatory compliance of software systems",
-            "lokasi": "Organizational Challenges, hlm. 14",
+            "lokasi": "Organizational Challenges hlm. 15",
             "kutipan": "\"SIPS compliance requires a number of organizational aspects which are often omitted. These are, for example, holistic organizational commitment, compliance planning, and nurturing the required strategy and culture.\""
           },
           {
@@ -420,7 +420,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2611",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "\"Project teams endeavor to identify and evaluate known and emergent risks, both internal and external to the project, throughout the life cycle.\""
           },
           {
@@ -437,7 +437,7 @@
           {
             "sumber": "Kosenkov et al. (2024)",
             "judul_sumber": "Systematic mapping study on requirements engineering for regulatory compliance of software systems",
-            "lokasi": "Provability Challenges, hlm. 13",
+            "lokasi": "Provability Challenges hlm. 14",
             "kutipan": "\"Traceability is an important aspect of SIPS compliance as without appropriate evidence regulators can assume non-compliance. Full traceability is required to demonstrate compliance. The need to monitor and evidence continuously compliance is an emerging challenge.\""
           },
           {
@@ -473,7 +473,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2637",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Organizations and project teams that employ consistent risk evaluation, planning, and proactive risk implementation often find the effort to be less costly than reacting to issues when the risk materializes.\""
           }
         ]
@@ -490,13 +490,13 @@
           {
             "sumber": "Kosenkov et al. (2024)",
             "judul_sumber": "Systematic mapping study on requirements engineering for regulatory compliance of software systems",
-            "lokasi": "Conclusions, hlm. 25",
+            "lokasi": "Conclusions hlm. 26",
             "kutipan": "\"The need for appropriate involvement of legal experts and, where necessary, domain experts. Furthermore, differences in terms of SDLC process areas, regulations, and domains of application need to be considered.\""
           },
           {
             "sumber": "Kosenkov et al. (2024)",
             "judul_sumber": "Systematic mapping study on requirements engineering for regulatory compliance of software systems",
-            "lokasi": "Organizational Challenges, hlm. 14",
+            "lokasi": "Organizational Challenges hlm. 15",
             "kutipan": "\"Organizational challenges include: engineers do not consider that they are responsible for compliance implementation, it is unclear who is responsible for regulatory compliance, there is no clear approach to sharing responsibility with other roles or partner organizations, organizations or SIPS development teams do not prioritize compliance because of prioritization of functional requirements.\""
           },
           {
@@ -520,7 +520,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2623–2625",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Project teams should consistently identify potential risk responses with the following characteristics in mind: Appropriate and timely to the significance of the risk, Cost effective, Realistic within the project context, Agreed to by relevant stakeholders, and Owned by a responsible person.\""
           }
         ]
@@ -569,7 +569,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2637",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Organizations and project teams that employ consistent risk evaluation, planning, and proactive risk implementation often find the effort to be less costly than reacting to issues when the risk materializes.\""
           }
         ]
@@ -610,7 +610,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2623–2625",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Project teams should consistently identify potential risk responses with the following characteristics in mind: Appropriate and timely to the significance of the risk, Cost effective, Realistic within the project context, Agreed to by relevant stakeholders, and Owned by a responsible person.\""
           }
         ]
@@ -651,13 +651,13 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2611",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "\"Project teams endeavor to identify and evaluate known and emergent risks, both internal and external to the project, throughout the life cycle.\""
           },
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.4, hlm. 7621",
+            "lokasi": "Section 3.2 Why Tailor?, hlm. 133",
             "kutipan": "\"The structure used to deliver projects can be extensive or minimal, rigorous or lightweight, robust or simple... tailoring should reflect the size, duration, and complexity of each individual project.\""
           }
         ]
@@ -676,13 +676,13 @@
           {
             "sumber": "Acebes et al. (2024)",
             "judul_sumber": "Beyond probability-impact matrices in project risk management: A quantitative methodology for risk prioritisation",
-            "lokasi": "Introduction, hlm. 1",
+            "lokasi": "Introduction hlm. 2",
             "kutipan": "\"Its primary goal is to identify a project's risk profile and communicate it by enabling informed decision making to mitigate the impact of risks on project objectives, including budget and schedule adherence.\""
           },
           {
             "sumber": "Acebes et al. (2024)",
             "judul_sumber": "Beyond probability-impact matrices in project risk management: A quantitative methodology for risk prioritisation",
-            "lokasi": "Methodology, hlm. 4–5",
+            "lokasi": "Methodology hlm. 2",
             "kutipan": "\"Instead of the traditional risk prioritisation method to qualitatively estimate risk probabilities and impacts, we model probabilities and impacts (duration and cost) at the activity level as distribution functions. When comparing both methods (traditional vs. our proposal), the risk prioritisation results are entirely different and lead to a distinct ranking.\""
           },
           {
@@ -706,7 +706,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2611",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "\"Project teams endeavor to identify and evaluate known and emergent risks, both internal and external to the project, throughout the life cycle.\""
           }
         ]
@@ -747,7 +747,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2621",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Risk appetite describes the degree of uncertainty an organization or individual is willing to accept in anticipation of a reward. Risk threshold is the measure of acceptable variation around an objective that reflects the risk appetite of the organization and stakeholders.\""
           }
         ]
@@ -788,7 +788,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2637",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Organizations and project teams that employ consistent risk evaluation, planning, and proactive risk implementation often find the effort to be less costly than reacting to issues when the risk materializes.\""
           }
         ]
@@ -831,7 +831,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2611",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "\"Project teams endeavor to identify and evaluate known and emergent risks, both internal and external to the project, throughout the life cycle.\""
           }
         ]
@@ -842,7 +842,7 @@
           {
             "sumber": "Barbosa et al. (2022)",
             "judul_sumber": "An analysis of the effects of stakeholders management on IT project risks using Delphi and design of experiments methods",
-            "lokasi": "Literature Review, hlm. 717",
+            "lokasi": "Literature Review hlm. 718",
             "kutipan": "\"The systematic analysis of stakeholders' requirements and goals must be an important step on risk planning to allow a group effort to deal with uncertainties. Moreover, the stakeholder engagement allows better understanding of risks dimensions and, consequently, the creation of a more coherent action plan with the real project situation.\""
           },
           {
@@ -866,7 +866,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2621",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Risk appetite describes the degree of uncertainty an organization or individual is willing to accept in anticipation of a reward. Risk threshold is the measure of acceptable variation around an objective that reflects the risk appetite of the organization and stakeholders.\""
           }
         ]
@@ -877,7 +877,7 @@
           {
             "sumber": "Barbosa et al. (2022)",
             "judul_sumber": "An analysis of the effects of stakeholders management on IT project risks using Delphi and design of experiments methods",
-            "lokasi": "Literature Review, hlm. 717",
+            "lokasi": "Literature Review hlm. 718",
             "kutipan": "\"The systematic analysis of stakeholders' requirements and goals must be an important step on risk planning to allow a group effort to deal with uncertainties. Moreover, the stakeholder engagement allows better understanding of risks dimensions and, consequently, the creation of a more coherent action plan with the real project situation.\""
           },
           {
@@ -901,7 +901,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2621",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Risk appetite describes the degree of uncertainty an organization or individual is willing to accept in anticipation of a reward. Risk threshold is the measure of acceptable variation around an objective that reflects the risk appetite of the organization and stakeholders.\""
           }
         ]
@@ -920,13 +920,13 @@
           {
             "sumber": "Ly et al. (2025)",
             "judul_sumber": "The Power of Words in Agile vs. Waterfall Development: Written Communication in Hybrid Software Teams",
-            "lokasi": "Section 2.4, hlm. 4–5",
+            "lokasi": "Section 2.4 hlm. 2",
             "kutipan": "\"Formal communication is characterized by its structured nature, requiring extensive planning, predetermined participants, and an agenda. In contrast, informal communication is characterized by minimal planning, no predefined structure, and interactive exchanges that are rich in content and change based on team members' current interests, needs, and understanding.\""
           },
           {
             "sumber": "Ly et al. (2025)",
             "judul_sumber": "The Power of Words in Agile vs. Waterfall Development: Written Communication in Hybrid Software Teams",
-            "lokasi": "Section 4.4, hlm. 15",
+            "lokasi": "Section 4.4 hlm. 16",
             "kutipan": "\"Agile projects often depended on informal requirements in the early stages. However, as projects progressed, there was a shift towards explicit documentation. In contrast, Waterfall is a plan-driven approach characterized by extensive documentation and limited flexibility in modifying requirements after the planning phase has been completed, which is often perceived to be facilitated by formal communication.\""
           },
           {
@@ -949,7 +949,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2611",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "\"Project teams endeavor to identify and evaluate known and emergent risks, both internal and external to the project, throughout the life cycle.\""
           }
         ]
@@ -1025,7 +1025,7 @@
           {
             "sumber": "Bahaaudeen et al. (2025)",
             "judul_sumber": "Risk and sustainability in project management with special reference to the IT sector",
-            "lokasi": "Section 4.2.3, hlm. 4226; Section 5, hlm. 4227",
+            "lokasi": "Section 4.2.3 hlm. 4227; Section 5, hlm. 4227",
             "kutipan": "\"The findings also show how important it is to monitor for significant risks and to handle them when they arise in a project.\" | \"Transparency, here defined as the disclosure of relevant information to those with a direct interest in a project, is bolstered by communication as a connecting and highlighting aspect.\""
           }
         ]
@@ -1061,19 +1061,19 @@
           {
             "sumber": "Jöhnk et al. (2022)",
             "judul_sumber": "Managing the complexity of digital transformation—How multiple concurrent initiatives foster hybrid ambidexterity",
-            "lokasi": "Abstract, hlm. 13–14",
+            "lokasi": "Discussion",
             "kutipan": "\"Interplay management between DTIs helps incumbent organizations to avoid drift, competition, and redundancies between DTIs. Thus, explorative activities can unfold their individual strategies while still functioning as a whole that implements a company's DT.\""
           },
           {
             "sumber": "Jöhnk et al. (2022)",
             "judul_sumber": "Managing the complexity of digital transformation—How multiple concurrent initiatives foster hybrid ambidexterity",
-            "lokasi": "Practical Implications, hlm. 1880",
+            "lokasi": "Practical Implications",
             "kutipan": "\"Our findings emphasize the need for an overarching framework and communication across multiple concurrent DTIs. For a comprehensive DT, our cases went beyond digital business strategies and levered change-focused DTIs as the contextual glue between DTIs as well as between DTIs and the core organization.\""
           },
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2623–2625",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Project teams should consistently identify potential risk responses with the following characteristics in mind: Appropriate and timely to the significance of the risk, Cost effective, Realistic within the project context, Agreed to by relevant stakeholders, and Owned by a responsible person.\""
           }
         ]
@@ -1084,13 +1084,13 @@
           {
             "sumber": "Jöhnk et al. (2022)",
             "judul_sumber": "Managing the complexity of digital transformation—How multiple concurrent initiatives foster hybrid ambidexterity",
-            "lokasi": "Section 2, hlm. 220–221",
+            "lokasi": "Section 2",
             "kutipan": "\"Structural ambidexterity provides structural separation between explorative and exploitative activities. Companies may pursue structural ambidexterity by implementing dual structures. Contextual ambidexterity balances explorative and exploitative activities within a single unit or a company without structural separation.\""
           },
           {
             "sumber": "Jöhnk et al. (2022)",
             "judul_sumber": "Managing the complexity of digital transformation—How multiple concurrent initiatives foster hybrid ambidexterity",
-            "lokasi": "Abstract, hlm. 14–18",
+            "lokasi": "Abstract",
             "kutipan": "\"Companies must find appropriate responses to these challenges, since they otherwise may stall DT efforts. Thus, incumbents undertake efforts to manage the dichotomy of organizational ambidexterity to explore environmental changes while exploiting current operations to maintain stability within DT.\""
           },
           {
@@ -1155,7 +1155,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2637",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Organizations and project teams that employ consistent risk evaluation, planning, and proactive risk implementation often find the effort to be less costly than reacting to issues when the risk materializes.\""
           }
         ]
@@ -1180,7 +1180,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.4, hlm. 7621; Section 5, hlm. 5583",
+            "lokasi": "Section 3.2 Why Tailor?, hlm. 133; Section 2.5.1 Project Processes, hlm. 71",
             "kutipan": "\"The structure used to deliver projects can be extensive or minimal, rigorous or lightweight, robust or simple... tailoring should reflect the size, duration, and complexity of each individual project.\" | \"In general, large projects have more process compared to small projects, and critical projects have more process than less significant projects.\""
           }
         ]
@@ -1208,7 +1208,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2611, 2623–2625, 2637",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "\"Project teams endeavor to identify and evaluate known and emergent risks, both internal and external to the project, throughout the life cycle.\" | \"Project teams should consistently identify potential risk responses with the following characteristics in mind: Appropriate and timely to the significance of the risk, Cost effective, Realistic within the project context, Agreed to by relevant stakeholders, and Owned by a responsible person.\""
           }
         ]
@@ -1308,7 +1308,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2611",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "\"Project teams endeavor to identify and evaluate known and emergent risks, both internal and external to the project, throughout the life cycle.\""
           },
           {
@@ -1345,7 +1345,7 @@
           {
             "sumber": "PMI (2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10, hlm. 2621",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "\"Risk appetite describes the degree of uncertainty an organization or individual is willing to accept in anticipation of a reward. Risk threshold is the measure of acceptable variation around an objective that reflects the risk appetite of the organization and stakeholders.\""
           }
         ]
@@ -1362,7 +1362,7 @@
           {
             "sumber": "Kulyk et al. (2025)",
             "judul_sumber": "Hybrid Risk Analysis Models: Integration of Machine Learning and Heuristic Methods",
-            "lokasi": "Section IV, hlm. 128",
+            "lokasi": "Section IV hlm. 127",
             "kutipan": "\"The Hybrid Approach combines the strengths of heuristic algorithms (like genetic and ant colony algorithms) and machine learning. Heuristic algorithms optimize ML models by tuning hyperparameters, enhancing the accuracy of predictions. The hybrid approach also incorporates explainable AI methods, such as SHAP values, which improve transparency and help stakeholders understand the model's reasoning.\""
           }
         ]
@@ -1445,13 +1445,13 @@
           {
             "sumber": "Varajão & Amaral (2021)",
             "judul_sumber": "Risk Management in Information Systems Projects: It Can Be Risky Not To Do It",
-            "lokasi": "Results and Discussion, hlm. 61",
+            "lokasi": "Results and Discussion hlm. 60",
             "kutipan": "“it is of utmost importance to carry out risk management processes, such as planning, identification, analysis, response planning, and controlling risk on any project developed in the organization”"
           },
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 52",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "“Risks are addressed continually throughout the project.” | “Risk responses should be: • Appropriate for the significance of the risk, • Cost effective, • Realistic within the project context, • Agreed to by relevant stakeholders, and • Owned by a responsible person.”"
           },
           {
@@ -1474,7 +1474,7 @@
           {
             "sumber": "Trzeciak (2021)",
             "judul_sumber": "Sustainable Risk Management in IT Enterprises",
-            "lokasi": "Section 5.4 Risk Monitoring, hlm. 14",
+            "lokasi": "Section 5.4 Risk Monitoring hlm. 13",
             "kutipan": "“The named person responsible for monitoring and managing all aspects related to the assigned risk, including the application of appropriate responses, is referred to as the risk owner (PMI 2017).”"
           },
           {
@@ -1534,7 +1534,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 52",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "“Risk responses should be: • Appropriate for the significance of the risk, • Cost effective, • Realistic within the project context, • Agreed to by relevant stakeholders, and • Owned by a responsible person.”"
           }
         ]
@@ -1605,13 +1605,13 @@
           {
             "sumber": "Rahman (2024)",
             "judul_sumber": "IT Project Management Frameworks: Evaluating Best Practices and Methodologies for Successful IT Project Management",
-            "lokasi": "Section 2.7 Risk Management Across Frameworks, hlm. 66",
+            "lokasi": "Section 2.7 Risk Management Across Frameworks hlm. 67",
             "kutipan": "“Agile’s iterative approach and frequent feedback loops are particularly effective in environments where change is constant”"
           },
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 116",
+            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 117",
             "kutipan": "“Volatility. The possibility for rapid and unpredictable change.”"
           }
         ]
@@ -1651,7 +1651,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 117",
+            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 118",
             "kutipan": "“Technical considerations such as new or emerging technology, complexity associated with systems, and interfaces”"
           },
           {
@@ -1688,7 +1688,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 122",
+            "lokasi": "Section 2.8.4 Volatility, hlm. 123",
             "kutipan": "“Mitigate. In threat mitigation, action is taken to reduce the probability of occurrence and/or impact of a threat. Early mitigation action is often more effective than trying to repair the damage after the threat has occurred.”"
           }
         ]
@@ -1699,13 +1699,13 @@
           {
             "sumber": "Dias et al. (2021)",
             "judul_sumber": "Risk management focusing on the best practices of data security systems for healthcare",
-            "lokasi": "Results, hlm. 55",
+            "lokasi": "Results hlm. 56",
             "kutipan": "“organizations need to implement comprehensive cybersecurity risk management systems to identify unique threats or trends”"
           },
           {
             "sumber": "Dias et al. (2021)",
             "judul_sumber": "Risk management focusing on the best practices of data security systems for healthcare",
-            "lokasi": "Introduction, hlm. 48",
+            "lokasi": "Introduction hlm. 49",
             "kutipan": "“risk management is defined as ‘coordinated activities to direct and control an organization with regard to risk’”"
           },
           {
@@ -1734,7 +1734,7 @@
           {
             "sumber": "ISO 31000:2018",
             "judul_sumber": "ISO 31000:2018 – Risk management – Guidelines",
-            "lokasi": "Section 6.2 Communication and consultation, hlm. 9",
+            "lokasi": "Section 6.6 Monitoring and review, hlm. 14",
             "kutipan": "“The purpose of monitoring and review is to assure and improve the quality and effectiveness of process design, implementation and outcomes.”"
           }
         ]
@@ -1811,7 +1811,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "“Management strategies include reducing drivers of threats, promoting drivers of opportunities, and maximizing the probability of achieving overall project objectives.”"
           }
         ]
@@ -1853,7 +1853,7 @@
           {
             "sumber": "Ojiegbu (2025)",
             "judul_sumber": "LLM-Augmented IT Project Management: Intelligent Risk Assessment and Automated Documentation Systems",
-            "lokasi": "Best practices in IT Project Documentation, hlm. 800",
+            "lokasi": "Best practices in IT Project Documentation hlm. 801",
             "kutipan": "“Leveraging tools to automate aspects of documentation generation and maintenance is highly beneficial”"
           },
           {
@@ -1876,7 +1876,7 @@
           {
             "sumber": "Ojiegbu (2025)",
             "judul_sumber": "LLM-Augmented IT Project Management: Intelligent Risk Assessment and Automated Documentation Systems",
-            "lokasi": "Best practices in IT Project Documentation, hlm. 800",
+            "lokasi": "Best practices in IT Project Documentation hlm. 801",
             "kutipan": "“Accuracy and Currency: Information must be correct and regularly updated to reflect changes in the project.”"
           },
           {
@@ -1907,7 +1907,7 @@
           {
             "sumber": "Prasetya et al. (2024)",
             "judul_sumber": "Software Change Request in Software Development Project: Factors and Methods (Scoping Review Methods)",
-            "lokasi": "RQ2 — Change Impact Analysis, hlm. 2208",
+            "lokasi": "RQ2 — Change Impact Analysis hlm. 2209",
             "kutipan": "“Change Impact Analysis is a critical process for managing changes within projects and systems.”"
           },
           {
@@ -1919,7 +1919,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 122",
+            "lokasi": "Section 2.8.4 Volatility, hlm. 123",
             "kutipan": "“Mitigate. In threat mitigation, action is taken to reduce the probability of occurrence and/or impact of a threat.”"
           }
         ]
@@ -1990,7 +1990,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 116",
+            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 117",
             "kutipan": "“Complexity. A characteristic of a program or project or its environment that is difficult to manage due to human behavior, system behavior, and ambiguity.”"
           },
           {
@@ -2061,13 +2061,13 @@
           {
             "sumber": "Dornauer et al. (2023)",
             "judul_sumber": "SoHist: A Tool for Managing Technical Debt through Retro Perspective Code Analysis",
-            "lokasi": "Section 3 SoHist, hlm. 2",
+            "lokasi": "Section 3 SoHist",
             "kutipan": "“introduces a novel tool named SoHist which addresses these limitations and offers additional features for the assessment and prioritization of technical debt”"
           },
           {
             "sumber": "Dornauer et al. (2023)",
             "judul_sumber": "SoHist: A Tool for Managing Technical Debt through Retro Perspective Code Analysis",
-            "lokasi": "Section 1 Introduction, hlm. 1",
+            "lokasi": "Section 1 Introduction",
             "kutipan": "“various factors have to be taken into account when evaluating, measuring, and finally addressing TD”"
           },
           {
@@ -2090,13 +2090,13 @@
           {
             "sumber": "Ramasubbu & Kemerer (2021)",
             "judul_sumber": "Controlling Technical Debt Remediation in Outsourced Enterprise Systems Maintenance: An Empirical Analysis",
-            "lokasi": "Introduction, hlm. 5",
+            "lokasi": "Introduction hlm. 4",
             "kutipan": "“processes for remediating technical debt are not well established and are not integrated with established project management processes”"
           },
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 122",
+            "lokasi": "Section 2.8.4 Volatility, hlm. 123",
             "kutipan": "“Transfer. Transfer involves shifting ownership of a threat to a third party to manage the risk and to bear the impact if the threat occurs.”"
           }
         ]
@@ -2144,13 +2144,13 @@
           {
             "sumber": "Rahman (2024)",
             "judul_sumber": "IT Project Management Frameworks: Evaluating Best Practices and Methodologies for Successful IT Project Management",
-            "lokasi": "Section 2.7 Risk Management Across Frameworks, hlm. 66",
+            "lokasi": "Section 2.7 Risk Management Across Frameworks hlm. 67",
             "kutipan": "“Agile’s iterative approach and frequent feedback loops are particularly effective in environments where change is constant”"
           },
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 116",
+            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 117",
             "kutipan": "“Volatility. The possibility for rapid and unpredictable change.”"
           }
         ]
@@ -2190,7 +2190,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 117",
+            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 118",
             "kutipan": "“Technical considerations such as new or emerging technology, complexity associated with systems, and interfaces”"
           },
           {
@@ -2227,7 +2227,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 122",
+            "lokasi": "Section 2.8.4 Volatility, hlm. 123",
             "kutipan": "“Mitigate. In threat mitigation, action is taken to reduce the probability of occurrence and/or impact of a threat. Early mitigation action is often more effective than trying to repair the damage after the threat has occurred.”"
           }
         ]
@@ -2238,13 +2238,13 @@
           {
             "sumber": "Dias et al. (2021)",
             "judul_sumber": "Risk management focusing on the best practices of data security systems for healthcare",
-            "lokasi": "Results, hlm. 55",
+            "lokasi": "Results hlm. 56",
             "kutipan": "“organizations need to implement comprehensive cybersecurity risk management systems to identify unique threats or trends”"
           },
           {
             "sumber": "Dias et al. (2021)",
             "judul_sumber": "Risk management focusing on the best practices of data security systems for healthcare",
-            "lokasi": "Introduction, hlm. 48",
+            "lokasi": "Introduction hlm. 49",
             "kutipan": "“risk management is defined as ‘coordinated activities to direct and control an organization with regard to risk’”"
           },
           {
@@ -2273,7 +2273,7 @@
           {
             "sumber": "ISO 31000:2018",
             "judul_sumber": "ISO 31000:2018 – Risk management – Guidelines",
-            "lokasi": "Section 6.2 Communication and consultation, hlm. 9",
+            "lokasi": "Section 6.6 Monitoring and review, hlm. 14",
             "kutipan": "“The purpose of monitoring and review is to assure and improve the quality and effectiveness of process design, implementation and outcomes.”"
           }
         ]
@@ -2292,7 +2292,7 @@
           {
             "sumber": "Nikolaenko & Sidorov (2023)",
             "judul_sumber": "Analysis of 105 IT Project Risks",
-            "lokasi": "Section 4.1 Risk sources, hlm. 9",
+            "lokasi": "Section 4.1 Risk sources hlm. 6",
             "kutipan": "“if a contract is signed with a contractor who does not carry out preventive actions on 105 risks, then the likelihood of material damage during the program’s development increases significantly”"
           },
           {
@@ -2304,7 +2304,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 122",
+            "lokasi": "Section 2.8.4 Volatility, hlm. 123",
             "kutipan": "“Transfer. Transfer involves shifting ownership of a threat to a third party to manage the risk and to bear the impact if the threat occurs.”"
           }
         ]
@@ -2381,7 +2381,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 52",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "“Risk responses should be: • Appropriate for the significance of the risk, • Cost effective, • Realistic within the project context, • Agreed to by relevant stakeholders, and • Owned by a responsible person.”"
           }
         ]
@@ -2475,7 +2475,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 122",
+            "lokasi": "Section 2.8.4 Volatility, hlm. 123",
             "kutipan": "“Mitigate. In threat mitigation, action is taken to reduce the probability of occurrence and/or impact of a threat.”"
           },
           {
@@ -2492,7 +2492,7 @@
           {
             "sumber": "Kulyk et al. (2025)",
             "judul_sumber": "Hybrid Risk Analysis Models: Integration of Machine Learning and Heuristic Methods",
-            "lokasi": "Section IV Proposed Model, hlm. 128",
+            "lokasi": "Section IV Proposed Model hlm. 127",
             "kutipan": "“combines the strengths of heuristic algorithms (like genetic and ant colony algorithms) and machine learning. Heuristic algorithms optimize ML models by tuning hyperparameters, enhancing the accuracy of predictions.”"
           },
           {
@@ -2504,7 +2504,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "“Management strategies include reducing drivers of threats, promoting drivers of opportunities, and maximizing the probability of achieving overall project objectives.”"
           }
         ]
@@ -2535,7 +2535,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 52",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
             "kutipan": "“Risk responses should be: • Appropriate for the significance of the risk, • Cost effective, • Realistic within the project context, • Agreed to by relevant stakeholders, and • Owned by a responsible person.”"
           }
         ]
@@ -2546,13 +2546,13 @@
           {
             "sumber": "Tanim & Ahmad (2025)",
             "judul_sumber": "AI-driven strategic decision-making in IT project management: Enhancing risk assessment, cost control, and efficiency",
-            "lokasi": "Abstract, hlm. 248",
+            "lokasi": "Abstract hlm. 247",
             "kutipan": "“AI optimizes cost control by providing intelligent budgeting frameworks, forecasting financial constraints, and ensuring resource allocation aligns with strategic objectives”"
           },
           {
             "sumber": "Tanim & Ahmad (2025)",
             "judul_sumber": "AI-driven strategic decision-making in IT project management: Enhancing risk assessment, cost control, and efficiency",
-            "lokasi": "Introduction, hlm. 250",
+            "lokasi": "Introduction hlm. 248",
             "kutipan": "“predicting potential delays, cost overruns, and resource shortages before they materialize”"
           },
           {
@@ -2575,7 +2575,7 @@
           {
             "sumber": "Sivasankaran et al. (2024a)",
             "judul_sumber": "Enhancing Vendor Management for Successful IT Project Delivery",
-            "lokasi": "Section 4 Strategies — Clear Contracts, hlm. 374",
+            "lokasi": "Section 4 Strategies — Clear Contracts",
             "kutipan": "“These contracts should outline performance standards, timelines, and penalties for non-compliance.”"
           },
           {
@@ -2600,13 +2600,13 @@
           {
             "sumber": "Acebes et al. (2024)",
             "judul_sumber": "Beyond probability-impact matrices in project risk management: A quantitative methodology for risk prioritisation",
-            "lokasi": "Introduction, hlm. 1",
+            "lokasi": "Introduction hlm. 2",
             "kutipan": "“Its primary goal is to identify a project’s risk profile and communicate it by enabling informed decision making to mitigate the impact of risks on project objectives, including budget and schedule adherence”"
           },
           {
             "sumber": "Acebes et al. (2024)",
             "judul_sumber": "Beyond probability-impact matrices in project risk management: A quantitative methodology for risk prioritisation",
-            "lokasi": "Conclusions, hlm. 10",
+            "lokasi": "Conclusions hlm. 11",
             "kutipan": "“we obtain numerical values for the impact of risks on total duration and cost objectives, and independently of one another”"
           },
           {
@@ -2623,13 +2623,13 @@
           {
             "sumber": "Chakrabortty et al. (2022)",
             "judul_sumber": "A Risk Assessment Framework for Scheduling Projects With Resource and Duration Uncertainties",
-            "lokasi": "Section I Introduction, hlm. 1",
+            "lokasi": "Section I Introduction hlm. 1918",
             "kutipan": "“uncertainty (due to delays or disruptions) in the formulation of scheduling problem by expressing random parameters, such as activity durations are considered to be uncertain or imprecise”"
           },
           {
             "sumber": "Chakrabortty et al. (2022)",
             "judul_sumber": "A Risk Assessment Framework for Scheduling Projects With Resource and Duration Uncertainties",
-            "lokasi": "Section I Introduction, hlm. 1",
+            "lokasi": "Section I Introduction hlm. 1917",
             "kutipan": "“inserting buffers to handle any future uncertainties) or stochastic planning approaches (for e.g., taking uncertainties into account during planning) is essential in modern industrial practice”"
           },
           {
@@ -2646,7 +2646,7 @@
           {
             "sumber": "Acebes et al. (2024)",
             "judul_sumber": "Beyond probability-impact matrices in project risk management: A quantitative methodology for risk prioritisation",
-            "lokasi": "Methodology, hlm. 4",
+            "lokasi": "Methodology hlm. 2",
             "kutipan": "“When comparing both methods (traditional vs. our proposal), the risk prioritisation results are entirely different and lead to a distinct ranking”"
           },
           {
@@ -2735,7 +2735,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 53",
+            "lokasi": "Section 3.10 Optimize Risk Responses, hlm. 54",
             "kutipan": "“Management strategies include reducing drivers of threats, promoting drivers of opportunities, and maximizing the probability of achieving overall project objectives.”"
           }
         ]
@@ -2754,7 +2754,7 @@
           {
             "sumber": "Dantas et al. (2022)",
             "judul_sumber": "Investigating Technological Risks and Mitigation Strategies in Software Projects",
-            "lokasi": "Section 5 Mitigation Strategies — Platform, hlm. 1532",
+            "lokasi": "Section 5 Mitigation Strategies — Platform hlm. 1533",
             "kutipan": "“Whenever the project involves new platforms, the team negotiates with the client the proof of concept.”"
           },
           {
@@ -2766,7 +2766,7 @@
           {
             "sumber": "PMBOK (PMI, 2021)",
             "judul_sumber": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Seventh Edition and The Standard for Project Management",
-            "lokasi": "Section 2.8 Uncertainty Performance Domain, hlm. 122",
+            "lokasi": "Section 2.8.4 Volatility, hlm. 123",
             "kutipan": "“Mitigate. In threat mitigation, action is taken to reduce the probability of occurrence and/or impact of a threat. Early mitigation action is often more effective than trying to repair the damage after the threat has occurred.”"
           }
         ]
@@ -2777,13 +2777,13 @@
           {
             "sumber": "Sivasankaran et al. (2024b)",
             "judul_sumber": "Optimizing Cross Functional Team Collaboration in IT Project Management",
-            "lokasi": "Abstract — Conclusion, hlm. 140",
+            "lokasi": "Abstract — Conclusion",
             "kutipan": "“The paper concludes with recommendations for IT organizations to invest in training and the adoption of tools that promote seamless collaboration to ensure project success in a fast-evolving technological landscape”"
           },
           {
             "sumber": "Sivasankaran et al. (2024b)",
             "judul_sumber": "Optimizing Cross Functional Team Collaboration in IT Project Management",
-            "lokasi": "Abstract, hlm. 140",
+            "lokasi": "Abstract",
             "kutipan": "“cross-functional collaboration leads to improved problem-solving capabilities, enhanced innovation, and more efficient resource utilization”"
           },
           {
@@ -2804,9 +2804,9 @@
             "kutipan": "“to mitigate, we usually seek constant communication with a remote team to avoid project failures”"
           },
           {
-            "sumber": "Sivasankaran et al. (2024b)",
-            "judul_sumber": "Optimizing Cross Functional Team Collaboration in IT Project Management",
-            "lokasi": "Section 2 Literature, hlm. 141",
+            "sumber": "Sivasankaran et al. (2024a)",
+            "judul_sumber": "Enhancing Vendor Management for Successful IT Project Delivery",
+            "lokasi": "Key Components of Effective Vendor Management — Open Communication Channels",
             "kutipan": "“Regular and transparent communication between vendors and internal teams ensures alignment throughout the project lifecycle”"
           },
           {
@@ -2831,7 +2831,7 @@
           {
             "sumber": "Barth (2025)",
             "judul_sumber": "When Experience Meets Complexity: How Project Managers Drive Success in SME Technology Projects",
-            "lokasi": "Hasil & Diskusi (Discussion)",
+            "lokasi": "Hasil & Diskusi (Discussion) hlm. 84",
             "kutipan": "The data show that experienced managers demonstrate better abilities to foresee risks, tailor methodologies and maintain stakeholder alignment resulting in reduced success rate variance and project failure risks."
           },
           {
@@ -2854,7 +2854,7 @@
           {
             "sumber": "Barth (2025)",
             "judul_sumber": "When Experience Meets Complexity: How Project Managers Drive Success in SME Technology Projects",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 68",
             "kutipan": "In addition, the success rates of projects increased by 40% when experienced managers implemented structured methods as opposed to laissez-faire project management approaches."
           },
           {
@@ -2877,7 +2877,7 @@
           {
             "sumber": "Pan et al. (2022)",
             "judul_sumber": "Multidisciplinary R&D project success in small firms: The role of multiproject status and project management experience",
-            "lokasi": "Abstrak & Kesimpulan",
+            "lokasi": "Abstrak & Kesimpulan hlm. 2806",
             "kutipan": "A follow-up post hoc analysis suggests that a shared problem domain is a key contingency for the moderation effects of both multiproject status and project management experience."
           },
           {
@@ -2954,7 +2954,7 @@
           {
             "sumber": "Kumar & Singh (2025)",
             "judul_sumber": "Underpinning risk dimensions of sponsored institutional R&D projects through cutting-edge fuzzy TOPSIS and fuzzy DEMATEL approaches",
-            "lokasi": "Abstrak (Design/methodology)",
+            "lokasi": "Abstrak (Design/methodology) hlm. 11",
             "kutipan": "The study identifies risk dimensions and prioritizes and explores causal relationships to guide risk mitigation strategies during project execution."
           },
           {
@@ -2985,7 +2985,7 @@
           {
             "sumber": "Gräßler et al. (2022)",
             "judul_sumber": "Proactive Management of Requirement Changes in the Development of Complex Technical Systems",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Proactive change management of requirement changes yields the potential to handle such changes efficiently."
           },
           {
@@ -3008,7 +3008,7 @@
           {
             "sumber": "Gräßler et al. (2022)",
             "judul_sumber": "Proactive Management of Requirement Changes in the Development of Complex Technical Systems",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "A systematic approach is required for proactive change management to assess and reduce the risk of a requirement change with appropriate effort in industrial application."
           },
           {
@@ -3031,7 +3031,7 @@
           {
             "sumber": "Gräßler et al. (2022)",
             "judul_sumber": "Proactive Management of Requirement Changes in the Development of Complex Technical Systems",
-            "lokasi": "Pendahuluan (Body)",
+            "lokasi": "Pendahuluan (Body) hlm. 1",
             "kutipan": "The actual extent of the requirement changes is assumed to be even greater, since undocumented requirement changes that do not go through the formal change process are not considered in change statistics."
           },
           {
@@ -3062,7 +3062,7 @@
           {
             "sumber": "Mironiuc et al. (2022)",
             "judul_sumber": "Financial Market Reaction to R&D Volatility in the Pharmaceutical Industry: A Multi-Country Study",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1234",
             "kutipan": "Panel regression estimations on a sample of 217 companies for 2014–2019 indicate that R&D volatility adversely affects market value."
           },
           {
@@ -3085,7 +3085,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "We believe that our model can serve as a strategic decision-making tool to assist pharmaceutical company managers in analyzing various investment scenarios and selecting a balanced portfolio."
           },
           {
@@ -3108,7 +3108,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Given a set of potential R&D projects, limited resources, and a predefined time horizon, the proposed model determines the projects to be executed in each period, decides on the optimal outsourcing policy, and simultaneously concludes the optimal financial resources' planning."
           },
           {
@@ -3139,7 +3139,7 @@
           {
             "sumber": "Dong & Qiu (2024)",
             "judul_sumber": "A case study on the relationship between risk assessment of scientific research projects and related factors under the Naive Bayesian algorithm",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "The research advocates for heightened attention to budget investment and team experience when formulating risk management strategies."
           },
           {
@@ -3162,7 +3162,7 @@
           {
             "sumber": "Dong & Qiu (2024)",
             "judul_sumber": "A case study on the relationship between risk assessment of scientific research projects and related factors under the Naive Bayesian algorithm",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "This paper furnishes a concrete reference framework for project managers, facilitating informed decision-making in SRPs."
           },
           {
@@ -3185,7 +3185,7 @@
           {
             "sumber": "Li et al. (2022)",
             "judul_sumber": "Managerial R&D hands-on experience, state ownership, and corporate innovation",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "A finer-grained empirical analysis supports that firms led by managers with R&D hands-on experience are associated with high innovation productivity."
           },
           {
@@ -3216,7 +3216,7 @@
           {
             "sumber": "Iskandriani et al. (2023)",
             "judul_sumber": "Risk Management Analysis of the Variability of External Factors in Business Planning Projects",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 2296",
             "kutipan": "The results showed that external factors can be analyzed using Porter's analysis and PETS analysis."
           },
           {
@@ -3239,7 +3239,7 @@
           {
             "sumber": "Iskandriani et al. (2023)",
             "judul_sumber": "Risk Management Analysis of the Variability of External Factors in Business Planning Projects",
-            "lokasi": "Tinjauan Literatur (Body)",
+            "lokasi": "Tinjauan Literatur (Body) hlm. 2298",
             "kutipan": "There are four distinct phases of project risk management: (1) risk identification, (2) probability and consequence analysis, (3) risk mitigation strategies, and (4) control and documentation."
           },
           {
@@ -3262,7 +3262,7 @@
           {
             "sumber": "Yoon et al. (2024)",
             "judul_sumber": "Do external risk factors increase or decrease country-level R&D efficiency: focused on air pollution and job insecurity?",
-            "lokasi": "Implikasi (Implications)",
+            "lokasi": "Implikasi (Implications) hlm. 472",
             "kutipan": "This study provides implications that policymakers should consider the impact of risk on performance and manage it through organisation and monitoring."
           },
           {
@@ -3293,7 +3293,7 @@
           {
             "sumber": "Kumar & Singh (2025)",
             "judul_sumber": "Underpinning risk dimensions of sponsored institutional R&D projects through cutting-edge fuzzy TOPSIS and fuzzy DEMATEL approaches",
-            "lokasi": "Abstrak (Research implications)",
+            "lokasi": "Abstrak (Research implications) hlm. 11",
             "kutipan": "This study contributes to risk management strategies for SIRPs, to ensure timely completion within the allocated budget."
           },
           {
@@ -3316,7 +3316,7 @@
           {
             "sumber": "Malone (2024)",
             "judul_sumber": "Managing Schedules in a Risk Resilient Framework",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "This paper investigates methods and techniques to support realistic schedule development early in the program life cycle to avoid historical delays and poor performance of those reported programs."
           },
           {
@@ -3339,7 +3339,7 @@
           {
             "sumber": "Malone (2024)",
             "judul_sumber": "Managing Schedules in a Risk Resilient Framework",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "While the COVID-19 pandemic caused some delays, root causes, observed by the GAO, was a correlation between the lack of obtaining adequate knowledge at key points in the program lifecycle and poor performance impacting both cost and schedule."
           },
           {
@@ -3447,7 +3447,7 @@
           {
             "sumber": "Nwoke (2024)",
             "judul_sumber": "Regulatory Compliance and Risk Management in Pharmaceuticals and Healthcare",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 60",
             "kutipan": "It demonstrates that robust compliance and risk management practices contribute to enhanced patient outcomes and improved healthcare system efficiency."
           },
           {
@@ -3470,7 +3470,7 @@
           {
             "sumber": "Nwoke (2024)",
             "judul_sumber": "Regulatory Compliance and Risk Management in Pharmaceuticals and Healthcare",
-            "lokasi": "Tinjauan (Body)",
+            "lokasi": "Tinjauan (Body) hlm. 62",
             "kutipan": "Over time, these frameworks have evolved to become more proactive, focusing on prevention and continuous improvement."
           },
           {
@@ -3493,7 +3493,7 @@
           {
             "sumber": "Singh & Patel (2024)",
             "judul_sumber": "Methods for Medical Device Design, Regulatory Compliance and Risk Management",
-            "lokasi": "Pendahuluan (Body)",
+            "lokasi": "Pendahuluan (Body) hlm. 373",
             "kutipan": "This gap exists because design controls and regulatory compliance have become integral to the medical device design process, mandated by regulations and standards at both national and international levels."
           },
           {
@@ -3601,7 +3601,7 @@
           {
             "sumber": "Wahyudi et al. (2022)",
             "judul_sumber": "Risk management for energy efficiency in information technology project: a case of a government agencies in Indonesia",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "However, outsourcing does not guarantee that the project will run successfully (on time, within the estimated cost, and satisfactorily)."
           },
           {
@@ -3624,7 +3624,7 @@
           {
             "sumber": "Wahyudi et al. (2022)",
             "judul_sumber": "Risk management for energy efficiency in information technology project: a case of a government agencies in Indonesia",
-            "lokasi": "Hasil & Pembahasan",
+            "lokasi": "Hasil & Pembahasan hlm. 1",
             "kutipan": "Risk response planning and risk monitoring are critical stages after the risk level has been identified."
           },
           {
@@ -3647,7 +3647,7 @@
           {
             "sumber": "Gładysz & Kuchta (2022)",
             "judul_sumber": "Sustainable Metrics in Project Financial Risk Management",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Following a survey of project managers, it is shown that all the identified project financial risk categories are significant and early warning signals may play an important role in their prevention or mitigation."
           },
           {
@@ -3678,7 +3678,7 @@
           {
             "sumber": "Omelyanskaya (2024)",
             "judul_sumber": "Evaluation of the Effect of Implementing an Integrated Approach to Management During the Transition of a Scientific and Practical Institution to Carrying Out Experimental Design Work",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 143",
             "kutipan": "The framework incorporated matrix and participatory management concepts."
           },
           {
@@ -3701,7 +3701,7 @@
           {
             "sumber": "Omelyanskaya (2024)",
             "judul_sumber": "Evaluation of the Effect of Implementing an Integrated Approach to Management During the Transition of a Scientific and Practical Institution to Carrying Out Experimental Design Work",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 143",
             "kutipan": "The introduction of participatory management resulted in employees' awareness of their needs for plan implementation, as well as the risks of non-implementation."
           },
           {
@@ -3724,7 +3724,7 @@
           {
             "sumber": "Lee et al. (2023)",
             "judul_sumber": "Project Coordinators' Perceptions according to the Organization Structure to Reduce Communication Risks in Multinational Project",
-            "lokasi": "Abstrak & Kesimpulan",
+            "lokasi": "Abstrak & Kesimpulan hlm. 915",
             "kutipan": "To alleviate these risks, PCs in functional, projectized, and matrix organizations must consider the hierarchy, expert presence, and systematic approach adoption, respectively."
           },
           {
@@ -3755,7 +3755,7 @@
           {
             "sumber": "Kainulainen et al. (2024)",
             "judul_sumber": "Requirements Risk Management for Continuous Development: Organisational Needs",
-            "lokasi": "Pendahuluan",
+            "lokasi": "Pendahuluan hlm. 1",
             "kutipan": "As these challenges constantly evolve, project management must be able to control CD, changes in the determination of requirements and the accompanying risks."
           },
           {
@@ -3778,7 +3778,7 @@
           {
             "sumber": "Kainulainen et al. (2024)",
             "judul_sumber": "Requirements Risk Management for Continuous Development: Organisational Needs",
-            "lokasi": "Pendahuluan",
+            "lokasi": "Pendahuluan hlm. 1",
             "kutipan": "However, in the literature, most methods for prioritising requirements and managing risks are more suited to traditional development."
           },
           {
@@ -3832,7 +3832,7 @@
           {
             "sumber": "Peng et al. (2024)",
             "judul_sumber": "Using the data-augmented heterogeneous graph neural networks to identify risk of complex R&D projects considering project similarity",
-            "lokasi": "Abstrak (Purpose)",
+            "lokasi": "Abstrak (Purpose) hlm. 63",
             "kutipan": "This study aims to provide a data-driven approach for risk identification in complex R&D projects, expanding the tools used for risk prediction."
           },
           {
@@ -3855,7 +3855,7 @@
           {
             "sumber": "Peng et al. (2024)",
             "judul_sumber": "Using the data-augmented heterogeneous graph neural networks to identify risk of complex R&D projects considering project similarity",
-            "lokasi": "Abstrak (Purpose)",
+            "lokasi": "Abstrak (Purpose) hlm. 63",
             "kutipan": "Most of the existing data-driven risk prediction and identification methods focus on individual projects and specific risks, and there is limited research on risk prediction and identification methods that also consider the similarity between risk propagation and projects."
           },
           {
@@ -3878,7 +3878,7 @@
           {
             "sumber": "Peng et al. (2024)",
             "judul_sumber": "Using the data-augmented heterogeneous graph neural networks to identify risk of complex R&D projects considering project similarity",
-            "lokasi": "Tinjauan Literatur (Body)",
+            "lokasi": "Tinjauan Literatur (Body) hlm. 65",
             "kutipan": "More scholars have used project similarity as part of the basis for conducting two types of studies: case-based reasoning (CBR) based on historical projects and cluster management of projects."
           },
           {
@@ -3909,7 +3909,7 @@
           {
             "sumber": "Pan et al. (2022)",
             "judul_sumber": "Multidisciplinary R&D project success in small firms: The role of multiproject status and project management experience",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 2806",
             "kutipan": "An increase in project knowledge scope, defined as the number of technical fields an R&D project covers, can be challenging for resource-constrained small firms."
           },
           {
@@ -3932,7 +3932,7 @@
           {
             "sumber": "Pan et al. (2022)",
             "judul_sumber": "Multidisciplinary R&D project success in small firms: The role of multiproject status and project management experience",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 2808",
             "kutipan": "Working on concurrent projects in the same problem domain facilitates multidisciplinary research development but working on concurrent projects in a different problem domain has the opposite effect."
           },
           {
@@ -3955,7 +3955,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Due to the costly and risky nature of research and development (R&D) projects and limited shared resources in pharmaceutical companies, it is essential to simultaneously address the selection and scheduling decisions, and this strongly prevents schedule slippage and poor resource management."
           },
           {
@@ -3986,7 +3986,7 @@
           {
             "sumber": "Nwoke (2024)",
             "judul_sumber": "Regulatory Compliance and Risk Management in Pharmaceuticals and Healthcare",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 60",
             "kutipan": "It demonstrates that robust compliance and risk management practices contribute to enhanced patient outcomes and improved healthcare system efficiency."
           },
           {
@@ -4009,7 +4009,7 @@
           {
             "sumber": "Nwoke (2024)",
             "judul_sumber": "Regulatory Compliance and Risk Management in Pharmaceuticals and Healthcare",
-            "lokasi": "Tinjauan (Body)",
+            "lokasi": "Tinjauan (Body) hlm. 62",
             "kutipan": "Over time, these frameworks have evolved to become more proactive, focusing on prevention and continuous improvement."
           },
           {
@@ -4032,7 +4032,7 @@
           {
             "sumber": "Singh & Patel (2024)",
             "judul_sumber": "Methods for Medical Device Design, Regulatory Compliance and Risk Management",
-            "lokasi": "Pendahuluan (Body)",
+            "lokasi": "Pendahuluan (Body) hlm. 373",
             "kutipan": "This gap exists because design controls and regulatory compliance have become integral to the medical device design process, mandated by regulations and standards at both national and international levels."
           },
           {
@@ -4140,7 +4140,7 @@
           {
             "sumber": "Gräßler et al. (2022)",
             "judul_sumber": "Proactive Management of Requirement Changes in the Development of Complex Technical Systems",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Proactive change management of requirement changes yields the potential to handle such changes efficiently."
           },
           {
@@ -4163,7 +4163,7 @@
           {
             "sumber": "Gräßler et al. (2022)",
             "judul_sumber": "Proactive Management of Requirement Changes in the Development of Complex Technical Systems",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "A systematic approach is required for proactive change management to assess and reduce the risk of a requirement change with appropriate effort in industrial application."
           },
           {
@@ -4186,7 +4186,7 @@
           {
             "sumber": "Gräßler et al. (2022)",
             "judul_sumber": "Proactive Management of Requirement Changes in the Development of Complex Technical Systems",
-            "lokasi": "Pendahuluan (Body)",
+            "lokasi": "Pendahuluan (Body) hlm. 1",
             "kutipan": "The actual extent of the requirement changes is assumed to be even greater, since undocumented requirement changes that do not go through the formal change process are not considered in change statistics."
           },
           {
@@ -4294,7 +4294,7 @@
           {
             "sumber": "Baxter & Turner (2021)",
             "judul_sumber": "Why Scrum works in new product development: the role of social capital in managing complexity",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1248",
             "kutipan": "We find that Scrum and social capital provide reciprocal benefits, and that the stakeholders found Scrum to be an effective and valuable way of working, mitigating the effects of complexity."
           },
           {
@@ -4317,7 +4317,7 @@
           {
             "sumber": "Baxter & Turner (2021)",
             "judul_sumber": "Why Scrum works in new product development: the role of social capital in managing complexity",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 1254",
             "kutipan": "Scrum provides the opportunity to clarify, resolve or explain the requirements more often, in response to the actual development."
           },
           {
@@ -4340,7 +4340,7 @@
           {
             "sumber": "Baxter & Turner (2021)",
             "judul_sumber": "Why Scrum works in new product development: the role of social capital in managing complexity",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 1254",
             "kutipan": "The transparency and frequency of commitment and delivery provides a foundation for building trust, which relies on delivered promises."
           },
           {
@@ -4371,7 +4371,7 @@
           {
             "sumber": "Gräßler et al. (2022)",
             "judul_sumber": "Proactive Management of Requirement Changes in the Development of Complex Technical Systems",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Proactive change management of requirement changes yields the potential to handle such changes efficiently."
           },
           {
@@ -4394,7 +4394,7 @@
           {
             "sumber": "Gräßler et al. (2022)",
             "judul_sumber": "Proactive Management of Requirement Changes in the Development of Complex Technical Systems",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "A systematic approach is required for proactive change management to assess and reduce the risk of a requirement change with appropriate effort in industrial application."
           },
           {
@@ -4417,7 +4417,7 @@
           {
             "sumber": "Gräßler et al. (2022)",
             "judul_sumber": "Proactive Management of Requirement Changes in the Development of Complex Technical Systems",
-            "lokasi": "Pendahuluan (Body)",
+            "lokasi": "Pendahuluan (Body) hlm. 1",
             "kutipan": "The actual extent of the requirement changes is assumed to be even greater, since undocumented requirement changes that do not go through the formal change process are not considered in change statistics."
           },
           {
@@ -4448,7 +4448,7 @@
           {
             "sumber": "Dong & Qiu (2024)",
             "judul_sumber": "A method for managing scientific research project resource conflicts and predicting risks using BP neural networks",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "It comprehensively evaluates the tangible and intangible resources required during project execution and establishes a resource conflict risk index system."
           },
           {
@@ -4471,7 +4471,7 @@
           {
             "sumber": "Dong & Qiu (2024)",
             "judul_sumber": "A method for managing scientific research project resource conflicts and predicting risks using BP neural networks",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 1",
             "kutipan": "The results reveal that risks in scientific research project management primarily fall into six categories: material, equipment, personnel, financial, time, and organizational factors."
           },
           {
@@ -4525,7 +4525,7 @@
           {
             "sumber": "Willumsen et al. (2024)",
             "judul_sumber": "Project risk management in practice: the actuality of project risk management in organizations",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 593",
             "kutipan": "The study documents that informal and/or implicit risk management activities add significantly more value."
           },
           {
@@ -4548,7 +4548,7 @@
           {
             "sumber": "Willumsen et al. (2024)",
             "judul_sumber": "Project risk management in practice: the actuality of project risk management in organizations",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 593",
             "kutipan": "Few studies report on contextual variation and consider confounding factors beyond a \"one size fits all\" formalized explicit risk management process, despite ample evidence that risks are managed outside the formal process."
           },
           {
@@ -4571,7 +4571,7 @@
           {
             "sumber": "Willumsen et al. (2024)",
             "judul_sumber": "Project risk management in practice: the actuality of project risk management in organizations",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 595",
             "kutipan": "Figure 1 illustrates a sense-making frameworks that allows us to group the way existing research discusses project RM into four quadrants: formal versus informal as well as explicit versus implicit risk-management activities."
           },
           {
@@ -4602,7 +4602,7 @@
           {
             "sumber": "Álvarez-Espada et al. (2024)",
             "judul_sumber": "Complexity Assessment in Projects Using Small-World Networks for Risk Factor Reduction",
-            "lokasi": "Pendahuluan",
+            "lokasi": "Pendahuluan hlm. 2",
             "kutipan": "Early identification of the factors that contribute to complexity allows designing more effective strategies."
           },
           {
@@ -4625,7 +4625,7 @@
           {
             "sumber": "Álvarez-Espada et al. (2024)",
             "judul_sumber": "Complexity Assessment in Projects Using Small-World Networks for Risk Factor Reduction",
-            "lokasi": "Hasil & Pembahasan",
+            "lokasi": "Hasil & Pembahasan hlm. 19",
             "kutipan": "The graphical representation of the networks and the possibility of visually observing the intensity of connections and the role of critical nodes offer an accessible way to manage the project, which contributes to both initial planning and agile response to changes and new challenges."
           },
           {
@@ -4648,7 +4648,7 @@
           {
             "sumber": "Zhao et al. (2024)",
             "judul_sumber": "Risk Management in Project Planning for Life Science R&D: An Integration of the NTCP Framework",
-            "lokasi": "Tinjauan (Body)",
+            "lokasi": "Tinjauan (Body) hlm. 4",
             "kutipan": "The NTCP framework, also referred to as the 'diamond-model', is one such means to help assess a project (Shenhar and Dvir, 2007)."
           },
           {
@@ -4679,7 +4679,7 @@
           {
             "sumber": "Mironiuc et al. (2022)",
             "judul_sumber": "Financial Market Reaction to R&D Volatility in the Pharmaceutical Industry: A Multi-Country Study",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1234",
             "kutipan": "Panel regression estimations on a sample of 217 companies for 2014–2019 indicate that R&D volatility adversely affects market value."
           },
           {
@@ -4702,7 +4702,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "We believe that our model can serve as a strategic decision-making tool to assist pharmaceutical company managers in analyzing various investment scenarios and selecting a balanced portfolio."
           },
           {
@@ -4725,7 +4725,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Given a set of potential R&D projects, limited resources, and a predefined time horizon, the proposed model determines the projects to be executed in each period, decides on the optimal outsourcing policy, and simultaneously concludes the optimal financial resources' planning."
           },
           {
@@ -4802,7 +4802,7 @@
           {
             "sumber": "Kumar & Singh (2025)",
             "judul_sumber": "Underpinning risk dimensions of sponsored institutional R&D projects through cutting-edge fuzzy TOPSIS and fuzzy DEMATEL approaches",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 11",
             "kutipan": "The study identifies risk dimensions and prioritizes and explores causal relationships to guide risk mitigation strategies during project execution."
           },
           {
@@ -4833,7 +4833,7 @@
           {
             "sumber": "Kainulainen et al. (2024)",
             "judul_sumber": "Requirements Risk Management for Continuous Development: Organisational Needs",
-            "lokasi": "Pendahuluan",
+            "lokasi": "Pendahuluan hlm. 1",
             "kutipan": "As these challenges constantly evolve, project management must be able to control CD, changes in the determination of requirements and the accompanying risks."
           },
           {
@@ -4856,7 +4856,7 @@
           {
             "sumber": "Kainulainen et al. (2024)",
             "judul_sumber": "Requirements Risk Management for Continuous Development: Organisational Needs",
-            "lokasi": "Pendahuluan",
+            "lokasi": "Pendahuluan hlm. 1",
             "kutipan": "However, in the literature, most methods for prioritising requirements and managing risks are more suited to traditional development."
           },
           {
@@ -4987,7 +4987,7 @@
           {
             "sumber": "Pan et al. (2022)",
             "judul_sumber": "Multidisciplinary R&D project success in small firms: The role of multiproject status and project management experience",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 2806",
             "kutipan": "An increase in project knowledge scope, defined as the number of technical fields an R&D project covers, can be challenging for resource-constrained small firms."
           },
           {
@@ -5010,7 +5010,7 @@
           {
             "sumber": "Pan et al. (2022)",
             "judul_sumber": "Multidisciplinary R&D project success in small firms: The role of multiproject status and project management experience",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 2808",
             "kutipan": "Working on concurrent projects in the same problem domain facilitates multidisciplinary research development but working on concurrent projects in a different problem domain has the opposite effect."
           },
           {
@@ -5033,7 +5033,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Due to the costly and risky nature of research and development (R&D) projects and limited shared resources in pharmaceutical companies, it is essential to simultaneously address the selection and scheduling decisions, and this strongly prevents schedule slippage and poor resource management."
           },
           {
@@ -5064,7 +5064,7 @@
           {
             "sumber": "Willumsen et al. (2024)",
             "judul_sumber": "Project risk management in practice: the actuality of project risk management in organizations",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 593",
             "kutipan": "The study documents that informal and/or implicit risk management activities add significantly more value."
           },
           {
@@ -5087,7 +5087,7 @@
           {
             "sumber": "Willumsen et al. (2024)",
             "judul_sumber": "Project risk management in practice: the actuality of project risk management in organizations",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 593",
             "kutipan": "Few studies report on contextual variation and consider confounding factors beyond a \"one size fits all\" formalized explicit risk management process, despite ample evidence that risks are managed outside the formal process."
           },
           {
@@ -5110,7 +5110,7 @@
           {
             "sumber": "Willumsen et al. (2024)",
             "judul_sumber": "Project risk management in practice: the actuality of project risk management in organizations",
-            "lokasi": "Hasil (Findings)",
+            "lokasi": "Hasil (Findings) hlm. 595",
             "kutipan": "Figure 1 illustrates a sense-making frameworks that allows us to group the way existing research discusses project RM into four quadrants: formal versus informal as well as explicit versus implicit risk-management activities."
           },
           {
@@ -5141,7 +5141,7 @@
           {
             "sumber": "Cecchi et al. (2022)",
             "judul_sumber": "How COVID-19 Impacted the Tacit Knowledge and Social Interaction of Global NPD Project Teams",
-            "lokasi": "Pembahasan",
+            "lokasi": "Pembahasan hlm. 43",
             "kutipan": "ICT can support knowledge management (Howells 1995; Marion, Barczak, and Hultink 2014), but it cannot mimic the richness of face-to-face social interaction so beneficial to global R&D."
           },
           {
@@ -5164,7 +5164,7 @@
           {
             "sumber": "Cecchi et al. (2022)",
             "judul_sumber": "How COVID-19 Impacted the Tacit Knowledge and Social Interaction of Global NPD Project Teams",
-            "lokasi": "Pembahasan (Rekomendasi)",
+            "lokasi": "Pembahasan (Rekomendasi) hlm. 49",
             "kutipan": "Managers should support discussions about concerns both in meetings and informally to allay members' worries."
           },
           {
@@ -5187,7 +5187,7 @@
           {
             "sumber": "Cecchi et al. (2022)",
             "judul_sumber": "How COVID-19 Impacted the Tacit Knowledge and Social Interaction of Global NPD Project Teams",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 41",
             "kutipan": "The complexity framework offers managers an effective way to analyze problems and to generate solutions to manage tacit knowledge and social interaction in dispersed global NPD project teams."
           },
           {
@@ -5218,7 +5218,7 @@
           {
             "sumber": "Peng et al. (2024)",
             "judul_sumber": "Using the data-augmented heterogeneous graph neural networks to identify risk of complex R&D projects considering project similarity",
-            "lokasi": "Abstrak (Purpose)",
+            "lokasi": "Abstrak (Purpose) hlm. 63",
             "kutipan": "This study aims to provide a data-driven approach for risk identification in complex R&D projects, expanding the tools used for risk prediction."
           },
           {
@@ -5241,7 +5241,7 @@
           {
             "sumber": "Peng et al. (2024)",
             "judul_sumber": "Using the data-augmented heterogeneous graph neural networks to identify risk of complex R&D projects considering project similarity",
-            "lokasi": "Abstrak (Purpose)",
+            "lokasi": "Abstrak (Purpose) hlm. 63",
             "kutipan": "Most of the existing data-driven risk prediction and identification methods focus on individual projects and specific risks, and there is limited research on risk prediction and identification methods that also consider the similarity between risk propagation and projects."
           },
           {
@@ -5264,7 +5264,7 @@
           {
             "sumber": "Peng et al. (2024)",
             "judul_sumber": "Using the data-augmented heterogeneous graph neural networks to identify risk of complex R&D projects considering project similarity",
-            "lokasi": "Tinjauan Literatur (Body)",
+            "lokasi": "Tinjauan Literatur (Body) hlm. 65",
             "kutipan": "More scholars have used project similarity as part of the basis for conducting two types of studies: case-based reasoning (CBR) based on historical projects and cluster management of projects."
           },
           {
@@ -5295,7 +5295,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Due to the costly and risky nature of research and development (R&D) projects and limited shared resources in pharmaceutical companies, it is essential to simultaneously address the selection and scheduling decisions, and this strongly prevents schedule slippage and poor resource management."
           },
           {
@@ -5318,7 +5318,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Given a set of potential R&D projects, limited resources, and a predefined time horizon, the proposed model determines the projects to be executed in each period, decides on the optimal outsourcing policy, and simultaneously concludes the optimal financial resources' planning."
           },
           {
@@ -5341,7 +5341,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "We believe that our model can serve as a strategic decision-making tool to assist pharmaceutical company managers in analyzing various investment scenarios and selecting a balanced portfolio."
           },
           {
@@ -5372,7 +5372,7 @@
           {
             "sumber": "Wahyudi et al. (2022)",
             "judul_sumber": "Risk management for energy efficiency in information technology project: a case of a government agencies in Indonesia",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "However, outsourcing does not guarantee that the project will run successfully (on time, within the estimated cost, and satisfactorily)."
           },
           {
@@ -5395,7 +5395,7 @@
           {
             "sumber": "Wahyudi et al. (2022)",
             "judul_sumber": "Risk management for energy efficiency in information technology project: a case of a government agencies in Indonesia",
-            "lokasi": "Hasil & Pembahasan",
+            "lokasi": "Hasil & Pembahasan hlm. 1",
             "kutipan": "Risk response planning and risk monitoring are critical stages after the risk level has been identified."
           },
           {
@@ -5418,7 +5418,7 @@
           {
             "sumber": "Gładysz & Kuchta (2022)",
             "judul_sumber": "Sustainable Metrics in Project Financial Risk Management",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Following a survey of project managers, it is shown that all the identified project financial risk categories are significant and early warning signals may play an important role in their prevention or mitigation."
           },
           {
@@ -5449,7 +5449,7 @@
           {
             "sumber": "Mironiuc et al. (2022)",
             "judul_sumber": "Financial Market Reaction to R&D Volatility in the Pharmaceutical Industry: A Multi-Country Study",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1234",
             "kutipan": "Panel regression estimations on a sample of 217 companies for 2014–2019 indicate that R&D volatility adversely affects market value."
           },
           {
@@ -5472,7 +5472,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "We believe that our model can serve as a strategic decision-making tool to assist pharmaceutical company managers in analyzing various investment scenarios and selecting a balanced portfolio."
           },
           {
@@ -5495,7 +5495,7 @@
           {
             "sumber": "Hesarsorkh et al. (2021)",
             "judul_sumber": "Pharmaceutical R&D project portfolio selection and scheduling under uncertainty: A robust possibilistic optimization approach",
-            "lokasi": "Abstrak",
+            "lokasi": "Abstrak hlm. 1",
             "kutipan": "Given a set of potential R&D projects, limited resources, and a predefined time horizon, the proposed model determines the projects to be executed in each period, decides on the optimal outsourcing policy, and simultaneously concludes the optimal financial resources' planning."
           },
           {
@@ -5526,7 +5526,7 @@
           {
             "sumber": "Kainulainen et al. (2024)",
             "judul_sumber": "Requirements Risk Management for Continuous Development: Organisational Needs",
-            "lokasi": "Pendahuluan",
+            "lokasi": "Pendahuluan hlm. 1",
             "kutipan": "As these challenges constantly evolve, project management must be able to control CD, changes in the determination of requirements and the accompanying risks."
           },
           {
@@ -5549,7 +5549,7 @@
           {
             "sumber": "Kainulainen et al. (2024)",
             "judul_sumber": "Requirements Risk Management for Continuous Development: Organisational Needs",
-            "lokasi": "Pendahuluan",
+            "lokasi": "Pendahuluan hlm. 1",
             "kutipan": "However, in the literature, most methods for prioritising requirements and managing risks are more suited to traditional development."
           },
           {

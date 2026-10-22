@@ -36,7 +36,7 @@ warnings.filterwarnings("ignore")
 import pandas as pd  # noqa: E402
 
 BASE = Path(__file__).resolve().parents[2]
-XLSX = BASE / "docs" / "knowledge_base_rev3.xlsx"
+XLSX = BASE / "docs" / "knowledge_base_rev4.xlsx"
 OUT = Path(__file__).resolve().parent / "knowledge_base.json"
 
 # Nama sheet -> kode domain internal
